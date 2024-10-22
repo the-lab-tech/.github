@@ -21,7 +21,7 @@ Bienvenidos a [The LAB TECH](https://www.thelabi.com/), organizacion que ofrece 
 
 * [Carlos E Ferreyra](https://github.com/carlosferreyra)
 
- > [!IMPORTANT] 
+ > [!TIP] 
  > Si queres formar parte de la organizacion, chequear [aqui](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/about-organization-membership)
  > o bien, enviar un mail a [administracion](mailto:administracion@thelabtech.com.ar)
 

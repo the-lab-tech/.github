@@ -10,7 +10,7 @@ Bienvenidos a [The LAB TECH](https://www.thelabi.com/), organizacion que ofrece 
 ### Docente
 
 * [Luciano Diamand](https://github.com/lucianodiamand) 
- > [!TIP]Contacto 
+ > [!TIP] Contacto 
  > [Linkedin](https://www.linkedin.com/in/lucianodiamand/)
  > [Mail](mailto:luciano.diamand@thelabtech.com.ar)
 

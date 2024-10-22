@@ -4,16 +4,19 @@ Bienvenidos a [The TECH LAB](https://www.thelabi.com/), organizacion que ofrece 
 
 ## Cursos
 
-- [Curso fullstack con Node](https://www.linkedin.com/posts/thelabtech_innovation-culture-itindustry-activity-7246274291414036480-HpGe?utm_source=share&utm_medium=member_desktop)
+- [Curso Fullstack con Node](https://www.linkedin.com/posts/thelabtech_innovation-culture-itindustry-activity-7246274291414036480-HpGe?utm_source=share&utm_medium=member_desktop)
 
 ## Miembros
 
-- [Luciano Diamand](https://github.com/lucianodiamand)
+- [x] [Luciano Diamand](https://github.com/lucianodiamand)
 
+- [x] [Carlos E Ferreyra](https://github.com/carlosferreyra)
 
-
-- [Carlos E Ferreyra](https://github.com/carlosferreyra)
-
+ > [!IMPORTANT] 
+ > Si queres formar parte de la organizacion, podes hacerlo siguiendo los pasos de [este tutorial](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/about-organization-membership)
+ 
+ >[!WARNING] 
+ > Solo se admiten miembros aprobados por la Organizacion.
 
 
 

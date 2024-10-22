@@ -1,6 +1,6 @@
 # The TECH LAB
 
-Bienvenidos a The TECH LAB, organizacion que ofrece cursos de programacion y tecnologia, con el objetivo de formar a los futuros profesionales de la tecnologia.
+Bienvenidos a [The TECH LAB](https://www.thelabi.com/), organizacion que ofrece cursos de programacion y tecnologia, con el objetivo de formar a los futuros profesionales de la tecnologia.
 
 ## Cursos
 
@@ -10,11 +10,11 @@ Bienvenidos a The TECH LAB, organizacion que ofrece cursos de programacion y tec
 
 - [Luciano Diamand](https://github.com/lucianodiamand)
 
-<div class="github-card" data-github="lucianodiamand" data-width="400" data-height="" data-theme="default"></div>
+
 
 - [Carlos E Ferreyra](https://github.com/carlosferreyra)
 
-<div class="github-card" data-github="carlosferreyra" data-width="400" data-height="" data-theme="default"></div>
+
 
 
 

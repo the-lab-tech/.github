@@ -1,20 +1,27 @@
 # The TECH LAB
 
-Bienvenidos a [The TECH LAB](https://www.thelabi.com/), organizacion que ofrece cursos de programacion y tecnologia, con el objetivo de formar a los futuros profesionales de la tecnologia.
+Bienvenidos a [The LAB TECH](https://www.thelabi.com/), organizacion que ofrece cursos de programacion y tecnologia, con el objetivo de formar a los futuros profesionales de la tecnologia.
 
 ## Cursos
 
 - [Curso Fullstack con Node](https://www.linkedin.com/posts/thelabtech_innovation-culture-itindustry-activity-7246274291414036480-HpGe?utm_source=share&utm_medium=member_desktop)
 
 ## Miembros
+### Docente
 
-- [x] [Luciano Diamand](https://github.com/lucianodiamand)
+* [Luciano Diamand](https://github.com/lucianodiamand) 
+ > [!NOTE]Contacto
+ [Linkedin](https://www.linkedin.com/in/lucianodiamand/)
+ [Mail](mailto:luciano.diamand@thelabtech.com.ar)
 
-- [x] [Carlos E Ferreyra](https://github.com/carlosferreyra)
+### Estudiante
+
+* [Carlos E Ferreyra](https://github.com/carlosferreyra)
 
  > [!IMPORTANT] 
- > Si queres formar parte de la organizacion, podes hacerlo siguiendo los pasos de [este tutorial](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/about-organization-membership)
- 
+ > Si queres formar parte de la organizacion, chequear [aqui](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/about-organization-membership)
+ > o bien, enviar un mail a [administracion](mailto:administracion@thelabtech.com.ar)
+
  >[!WARNING] 
  > Solo se admiten miembros aprobados por la Organizacion.
 

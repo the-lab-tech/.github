@@ -15,7 +15,7 @@ Bienvenidos a The TECH LAB, organizacion que ofrece cursos de programacion y tec
 - [Carlos E Ferreyra](https://github.com/carlosferreyra)
 
 <div class="github-card" data-github="carlosferreyra" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 
 
 <!--

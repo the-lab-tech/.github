@@ -11,8 +11,7 @@ Bienvenidos a [The LAB TECH](https://www.thelabi.com/), organizacion que ofrece 
 
 * [Luciano Diamand](https://github.com/lucianodiamand) 
  > [!TIP] 
- 
- Contacto:
+ > Contacto:
  
  <br>
 
